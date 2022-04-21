@@ -10,7 +10,7 @@ namespace CA2WebService
         [Key]
         public int LibraryID { get; set; }
         public string LibraryName { get; set; }
-        public string Address { get; set; }
+        public string LibraryAddress { get; set; }
 
     }
 
